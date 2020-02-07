@@ -1,0 +1,8 @@
+stm32l4r9i_discovery_psram.c:213:9:BSP_PSRAM_ReadData	8	static
+stm32l4r9i_discovery_psram.c:232:9:BSP_PSRAM_ReadData_DMA	8	static
+stm32l4r9i_discovery_psram.c:251:9:BSP_PSRAM_WriteData	8	static
+stm32l4r9i_discovery_psram.c:270:9:BSP_PSRAM_WriteData_DMA	8	static
+stm32l4r9i_discovery_psram.c:288:13:BSP_PSRAM_MspInit	104	static
+stm32l4r9i_discovery_psram.c:112:9:BSP_PSRAM_Init	24	static
+stm32l4r9i_discovery_psram.c:414:13:BSP_PSRAM_MspDeInit	8	static
+stm32l4r9i_discovery_psram.c:175:9:BSP_PSRAM_DeInit	24	static

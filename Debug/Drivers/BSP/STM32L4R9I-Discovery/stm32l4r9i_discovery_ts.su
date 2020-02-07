@@ -1,0 +1,10 @@
+stm32l4r9i_discovery_ts.c:103:9:BSP_TS_Init	16	static
+stm32l4r9i_discovery_ts.c:139:9:BSP_TS_DeInit	0	static
+stm32l4r9i_discovery_ts.c:151:9:BSP_TS_GetState	88	static
+stm32l4r9i_discovery_ts.c:236:9:BSP_TS_GestureConfig	8	static
+stm32l4r9i_discovery_ts.c:253:9:BSP_TS_Get_GestureId	24	static
+stm32l4r9i_discovery_ts.c:296:9:BSP_TS_ResetTouchData	0	static
+stm32l4r9i_discovery_ts.c:325:9:BSP_TS_ITConfig	8	static
+stm32l4r9i_discovery_ts.c:342:9:BSP_TS_ITDisable	8	static
+stm32l4r9i_discovery_ts.c:356:6:BSP_TS_ITClear	0	static
+stm32l4r9i_discovery_ts.c:365:9:BSP_TS_ITGetStatus	0	static
