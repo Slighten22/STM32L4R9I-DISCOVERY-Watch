@@ -22,7 +22,7 @@ Praktyczne wykorzystanie wyświetlacza płytki oraz dostępnych narzędzi progra
 
 2. TouchGFX firmy STMicroelectronics – bezpłatne narzędzie do tworzenia aplikacji z graficznym interfejsem użytkownika dla mikrokontrolerów STM32.
 
-3. CubeMX firmy STMicroelectronics – narzędzie graficzne umożliwiające początkową konfigurację pinów mikrokontrolerów STM32, oraz wygenerowanie kodu w języku C++ dla dalszego rozwijania w wybranych środowiskach programistycznych, w tym w EWARM.
+3. CubeMX firmy STMicroelectronics – narzędzie graficzne umożliwiające początkową konfigurację pinów mikrokontrolerów STM32, oraz wygenerowanie kodu w języku C dla dalszego rozwijania w wybranych środowiskach programistycznych, w tym w EWARM.
 
 4. STM32 ST-LINK firmy STMicroelectronics – bezpłatne, nieskomplikowane narzędzie do programowania pamięci (Flash, RAM) mikrokontrolerów STM32 oraz czyszczenia zawartości pamięci urządzenia.
 
